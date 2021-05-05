@@ -23,3 +23,6 @@ Ementa da disciplina:
   - Árvores Balanceadas (R&B)	
   - Hashing
   - Árvores B (2-3, 2-3-4)
+
+Link para a página da disciplina:
+https://github.com/flaviovdf/estruturas-de-dados
